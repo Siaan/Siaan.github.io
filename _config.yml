@@ -1,6 +1,6 @@
 # main text of home
 name: Sian
-bio: up? work on machine learning and robotics projects. In constant pursuit of the hitchhiker's guide to challenging technical roles, especially those with a basis in large-scale datasets, statistical inference and analytics.
+bio: upd? work on machine learning and robotics projects. In constant pursuit of the hitchhiker's guide to challenging technical roles, especially those with a basis in large-scale datasets, statistical inference and analytics.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ picture: /assets/images/IMG_3713.jpg
 #resume-external: false
 #resume-url: https://google.com/?q=my+resume
 
-url: http://google.com
+url: http://Siaan.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
