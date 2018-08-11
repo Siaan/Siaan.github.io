@@ -7,7 +7,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: IMG_3713.jpg
 
 # If you want to include your resume, set to true
@@ -16,7 +16,7 @@ picture: IMG_3713.jpg
 #resume-external: false
 #resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: http://google.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
