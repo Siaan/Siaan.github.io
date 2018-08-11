@@ -1,14 +1,14 @@
 # main text of home
 name: Sian
-bio: I work on machine learning and robotics projects. In constant pursuit of the hitchhiker's guide to challenging technical roles, especially those with a basis in large-scale datasets, statistical inference and analytics.
+bio: up? work on machine learning and robotics projects. In constant pursuit of the hitchhiker's guide to challenging technical roles, especially those with a basis in large-scale datasets, statistical inference and analytics.
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: IMG_3713.jpg
+external-image: false
+picture: /assets/images/IMG_3713.jpg 
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
