@@ -7,6 +7,6 @@ image:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: 
+description: "TBA"
 category: project
 
