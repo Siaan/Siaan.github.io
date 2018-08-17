@@ -2,7 +2,7 @@
 title: "Monte Carlo Simulation"
 layout: post
 date: 2016-02-24 22:44
-image: /assets/images/MonteCarlo.jpg 
+image: /assets/images/MonteCarlo.png
 headerImage: true
 tag:
 - markdown
