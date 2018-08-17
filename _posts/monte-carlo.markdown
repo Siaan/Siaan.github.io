@@ -2,7 +2,7 @@
 title: "Monte Carlo Simulation"
 layout: post
 date: 2016-02-24 22:44
-image: /assets/images/.jpg 
+image: /assets/images/MonteCarlo.jpg 
 headerImage: true
 tag:
 - markdown
@@ -25,4 +25,5 @@ Performed simple statistical analysis to estimate drift and volatitily parameter
 
 
 
-[1]: 
+[1]: https://github.com/Siaan/MonteCarloSimulation
+
