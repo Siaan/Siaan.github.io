@@ -2,7 +2,7 @@
 title: "Columbia Space Initiative: RASC-AL 2018"
 layout: post
 date: 2016-02-24 22:44
-image: /assets/images/uganda.jpg
+image: /assets/images/CSI_logo.jpeg 
 headerImage: true
 tag:
 - markdown
