@@ -1,5 +1,5 @@
 ---
-title: "Spelling Corrections App"
+title: "Microgrid In Uganda1.0"
 layout: post
 date: 2016-02-24 22:44
 image: /assets/images/markdown.jpg
@@ -15,9 +15,11 @@ description: Markdown summary with different options
 
 ## Basic formatting
 
-This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
+[Project Deatils!][1]
 
-And that's how to do it.
+I developed photovoltaic solar panel power distribution system for large-scle off-grid use using EAGLE CAD, MATLAB and LTSPICE.
+I designed and evaluated system performance under real-world loads (3 primary schools, a health center and trading post) in Otubet, Uganda. 
+
 
 {% highlight html %}
 This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
@@ -27,9 +29,4 @@ This note **demonstrates** some of what [Markdown][some/link] is *capable of doi
 
 
 
-[1]: http://daringfireball.net/projects/markdown/
-[2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
-[3]: http://www.markitdown.net/
-[4]: http://daringfireball.net/projects/markdown/basics
-[5]: http://daringfireball.net/projects/markdown/syntax
-[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+[1]: http://uganda.cuewb.org
