@@ -11,7 +11,6 @@ description: "This is a simple and minimalist template for Jekyll for those who 
 category: project
 author: Sian Lee Kitt
 externalLink: false
-
 ---
 
 {% assign orderedRepos = site.github.public_repositories | sort: 'stargazers_count' | reverse %}
@@ -28,9 +27,4 @@ externalLink: false
 </div>
 
 {% endfor %}
-
-
-
-
----
 
