@@ -15,5 +15,16 @@ externalLink: false
 
 
 
-[Simulation Details!][1]
+[Interesting Projects!][1]
 
+## Data Analytics
+### [Dimensionality Reduction Algorithms](https://github.com/Siaan/dimReduc)
+Framework for common neural dimensionality reductions
+
+### [Black Box Variational Inference](https://github.com/Siaan/vilds)
+Bayesian Inference
+
+### [Kalman Filter](https://github.com/Siaan/kalmanfilter)
+Open Source KF 
+
+[1] https://github.com/Siaan
