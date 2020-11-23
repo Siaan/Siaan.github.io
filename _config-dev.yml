@@ -1,5 +1,7 @@
 # For local testing, run:
 # bundle exec jekyll serve --config _config.yml,_config-dev.yml
+theme: jekyll-theme-cayman
+
 plugins:
   - jekyll-octicons
 
