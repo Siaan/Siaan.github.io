@@ -1,3 +1,5 @@
+theme: jekyll-theme-cayman
+
 # main text of home
 name: Sian Lee Kitt
 bio: I work on machine learning and robotics projects. In constant pursuit of the hitchhiker's guide to challenging technical roles, especially those with a basis in large-scale datasets, statistical inference and analytics.
@@ -110,8 +112,6 @@ defaults:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
       hidden: false
-
-theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-seo-tag

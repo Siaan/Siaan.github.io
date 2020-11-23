@@ -32,9 +32,3 @@ externalLink: false
 
 {% endfor %}
 
----
-
-
-
-[1]: https://github.com/Siaan/MonteCarloSimulation
-
