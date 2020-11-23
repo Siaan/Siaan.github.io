@@ -8,7 +8,7 @@ tag:
 - markdown
 - elements
 star: true
-category: blog
+category: projects
 author: Sian
 description: TBA
 ---
