@@ -111,6 +111,8 @@ defaults:
       # can be overridden in the front matter for a specific post
       hidden: false
 
+theme: jekyll-theme-cayman
+
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
