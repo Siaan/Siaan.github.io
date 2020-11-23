@@ -1,7 +1,7 @@
 ---
 title: "Research"
 layout: post
-date: 2020-01-23 22:10
+date: 2020-10-22 22:10
 tag: jekyll
 image: /assets/images/MonteCarlo.png
 headerImage: true
