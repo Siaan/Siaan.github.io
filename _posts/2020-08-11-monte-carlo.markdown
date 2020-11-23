@@ -1,17 +1,19 @@
 ---
-title: "Monte Carlo Simulation"
+title: "Research"
 layout: post
-date: 2016-02-24 22:44
+date: 2020-01-23 22:10
+tag: jekyll
 image: /assets/images/MonteCarlo.png
 headerImage: true
-tag:
-- markdown
-- elements
-star: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
-author: Sian
-description: TBA
+author: Sian Lee Kitt
+externalLink: false
 ---
+
+
 
 [Simulation Details!][1]
 
