@@ -27,4 +27,6 @@ Bayesian Inference
 ### [Kalman Filter](https://github.com/Siaan/kalmanfilter)
 Open Source KF 
 
-[1] https://github.com/Siaan
+---
+
+[1]: https://github.com/Siaan
